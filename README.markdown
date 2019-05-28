@@ -18,5 +18,5 @@ Usage
 2. write words from terminal, each word on a line
 3. enter empty line (hit Enter)
 4. program will show its best guess
-5. write the answer (nubmer of matching letters), hit Enter
+5. write the answer (the number of matching letters), hit Enter
 6. go to step 4
